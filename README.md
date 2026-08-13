@@ -26,6 +26,12 @@ Estudante de Segurança da Informação, desenvolvendo conhecimentos em programa
     <td align="center" width="90"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"><br><sub><b>GitHub</b></sub></td>
     <td align="center" width="90"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code"><br><sub><b>VS Code</b></sub></td>
   </tr>
+  <tr>
+    <td align="center" width="90"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java"><br><sub><b>Java</b></sub></td>
+    <td align="center" width="90"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="Amazon Web Services"><br><sub><b>AWS</b></sub></td>
+    <td align="center" width="90"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" title="Microsoft Azure"><br><sub><b>Azure</b></sub></td>
+    <td align="center" width="90"><img width="48" src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" title="Power BI"><br><sub><b>Power BI</b></sub></td>
+  </tr>
 </table>
 
 ## Formação e certificações
@@ -36,7 +42,21 @@ Estudante de Segurança da Informação, desenvolvendo conhecimentos em programa
 - **Introdução ao Microsoft Azure Data (DP-900)** - 8 horas.
 - **Introdução à Infraestrutura de Nuvem (AZ-900)** - 8 horas.
 
-[Ver portfólio completo de certificações](certificados/README.md)
+<div align="center">
+  <img src="https://img.shields.io/badge/Inteligência_Artificial-6B21A8?style=for-the-badge" alt="Inteligência Artificial">
+  <img src="https://img.shields.io/badge/Big_Data_%26_Analytics-E6007E?style=for-the-badge" alt="Big Data e Analytics">
+  <img src="https://img.shields.io/badge/Cybersecurity-0F766E?style=for-the-badge&amp;logo=securityscorecard&amp;logoColor=white" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/ITIL_4-5B2C83?style=for-the-badge" alt="ITIL 4">
+  <img src="https://img.shields.io/badge/SAP_MM_%26_SD-0FAAFF?style=for-the-badge&amp;logo=sap&amp;logoColor=white" alt="SAP MM e SD">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="certificados/README.md">
+    <img src="https://img.shields.io/badge/Ver_21_certificados-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver portfólio completo de certificações">
+  </a>
+</div>
 
 ## Atualmente desenvolvendo
 
