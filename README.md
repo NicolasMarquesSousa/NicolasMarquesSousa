@@ -31,7 +31,7 @@ Estudante de Segurança da Informação, desenvolvendo conhecimentos em programa
 ## Formação e certificações
 
 - **Python — Santander Open Academy** — concluído em 13/08/2026, com carga horária de 8 horas, 2 módulos e autoavaliação.
-  - Certificado: será disponibilizado no repositório de estudos após a inclusão do arquivo original.
+  - [Visualizar certificado](https://github.com/NicolasMarquesSousa/estudos-python-sql/blob/main/docs/certificados/python-santander-open-academy.pdf)
 
 ## Atualmente desenvolvendo
 
