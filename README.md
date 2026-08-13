@@ -30,8 +30,13 @@ Estudante de Segurança da Informação, desenvolvendo conhecimentos em programa
 
 ## Formação e certificações
 
-- **Python — Santander Open Academy** — concluído em 13/08/2026, com carga horária de 8 horas, 2 módulos e autoavaliação.
-  - [Visualizar certificado](https://github.com/NicolasMarquesSousa/estudos-python-sql/blob/main/docs/certificados/python-santander-open-academy.pdf)
+- **Python - Santander Open Academy** - 8 horas, concluído em 13/08/2026.
+- **Big Data & Analytics - FIAP** - 60 horas.
+- **Inteligência Artificial e Computacional - FIAP** - 80 horas.
+- **Introdução ao Microsoft Azure Data (DP-900)** - 8 horas.
+- **Introdução à Infraestrutura de Nuvem (AZ-900)** - 8 horas.
+
+[Ver portfólio completo de certificações](certificados/README.md)
 
 ## Atualmente desenvolvendo
 
