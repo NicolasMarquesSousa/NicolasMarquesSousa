@@ -70,30 +70,27 @@ Estudante de Segurança da Informação, desenvolvendo conhecimentos em programa
 
 ## Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/NicolasMarquesSousa/security-log-analyzer">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasMarquesSousa&repo=security-log-analyzer&theme=transparent&hide_border=false" alt="Security Log Analyzer">
-  </a>
-  <a href="https://github.com/NicolasMarquesSousa/python-task-manager">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasMarquesSousa&repo=python-task-manager&theme=transparent&hide_border=false" alt="Python Task Manager">
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Security Log Analyzer</h3>
+      <p>Analisa eventos de autenticação e identifica possíveis ataques de força bruta usando quantidade de falhas e intervalo de tempo.</p>
+      <p><code>Python</code> <code>Datetime</code> <code>Arquivos</code> <code>Cybersecurity</code></p>
+      <a href="https://github.com/NicolasMarquesSousa/security-log-analyzer">
+        <img src="https://img.shields.io/badge/Ver_projeto-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Ver Security Log Analyzer">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ Python Task Manager</h3>
+      <p>Gerenciador de tarefas no terminal com persistência em JSON, orientação a objetos e quatro testes automatizados.</p>
+      <p><code>Python</code> <code>JSON</code> <code>POO</code> <code>Unittest</code></p>
+      <a href="https://github.com/NicolasMarquesSousa/python-task-manager">
+        <img src="https://img.shields.io/badge/Ver_projeto-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Python Task Manager">
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🔐 Security Log Analyzer
-
-Analisa eventos de autenticação e identifica possíveis ataques de força bruta usando quantidade de falhas e intervalo de tempo.
-
-`Python` · `Datetime` · `Arquivos` · `Cybersecurity`
-
-[Ver projeto](https://github.com/NicolasMarquesSousa/security-log-analyzer)
-
-### ✅ Python Task Manager
-
-Gerenciador de tarefas no terminal com persistência em JSON, orientação a objetos e quatro testes automatizados.
-
-`Python` · `JSON` · `POO` · `Unittest`
-
-[Ver projeto](https://github.com/NicolasMarquesSousa/python-task-manager)
 
 ### 📚 Laboratório de estudos
 
