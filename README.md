@@ -48,15 +48,15 @@ Meu portfólio registra uma evolução prática: leitura e correlação de logs,
   </tr>
 </table>
 
-## Em desenvolvimento
-
 ### 🗄️ Banco de Incidentes de Segurança
 
-Projeto SQL para registrar usuários, endereços IP, eventos de autenticação e incidentes. A estrutura está sendo construída com chaves primárias e estrangeiras, restrições de integridade e relacionamento muitos-para-muitos.
+Banco de dados relacional em SQLite para investigar eventos de autenticação e organizar incidentes de segurança. Inclui cinco tabelas relacionadas, dados fictícios, regras de integridade e consultas analíticas que classificam usuários por quantidade de falhas.
 
-`SQLite` `Modelagem relacional` `PK e FK` `CHECK` `Consultas analíticas`
+**Demonstra:** modelagem relacional, chaves primárias e estrangeiras, relacionamento muitos-para-muitos, `JOIN`, `GROUP BY`, `HAVING`, `CASE` e funções de agregação.
 
-> O repositório será publicado após a validação do esquema, dos dados fictícios e das consultas.
+`SQL` `SQLite` `Cybersecurity` `Análise de dados`
+
+[![Ver projeto](https://img.shields.io/badge/Ver_projeto-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/NicolasMarquesSousa/banco-incidentes-seguranca)
 
 ### 📚 Laboratório de estudos
 
