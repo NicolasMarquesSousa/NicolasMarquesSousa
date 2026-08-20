@@ -24,7 +24,7 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 |---|---|
 | 🤝 Processos e riscos | Experiência profissional em Gestão de Terceiros e acompanhamento de fornecedores |
 | 🔐 Segurança e análise de eventos | Detecção de tentativas de força bruta por IP e intervalo de tempo |
-| 🐍 Automação com Python | Manipulação de arquivos, orientação a objetos e persistência em JSON |
+| 🐍 Automação com Python | Segmentação por fornecedor, relatórios em Excel, JSON e rascunhos no Outlook |
 | 🧪 Qualidade de software | Projetos validados com testes automatizados e casos de erro |
 | 🗄️ Dados e SQL | Modelagem relacional de usuários, eventos e incidentes de segurança |
 
@@ -85,6 +85,12 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,git,github,vscode" alt="Python, SQLite, MySQL, Git, GitHub e VS Code">
+  <br><br>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Microsoft Outlook">
+  <img src="https://img.shields.io/badge/OpenPyXL-1F6E43?style=for-the-badge&logo=python&logoColor=white" alt="OpenPyXL">
+  <img src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/Automação_de_Processos-0F766E?style=for-the-badge" alt="Automação de processos">
 </div>
 
 ## Conhecimentos em desenvolvimento
