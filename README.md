@@ -108,8 +108,8 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 - **Python** · Santander Open Academy — fundamentos aplicados aos projetos do portfólio.
 - **Big Data & Analytics** · FIAP — 60 horas.
 - **Inteligência Artificial e Computacional** · FIAP — 80 horas.
-- **Microsoft Azure Data Fundamentals (DP-900)** · Microsoft — 8 horas.
-- **Microsoft Azure Fundamentals (AZ-900)** · Microsoft — 8 horas.
+- **Introdução ao Microsoft Azure Data (DP-900)** — 8 horas.
+- **Introdução à Infraestrutura de Nuvem (AZ-900)** — 8 horas.
 
 <p align="center">
   <a href="certificados/README.md"><img src="https://img.shields.io/badge/Explorar_21_certificados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar portfólio completo de certificações"></a>
