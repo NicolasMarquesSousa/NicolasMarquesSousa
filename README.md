@@ -85,20 +85,20 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,git,github,vscode" alt="Python, SQLite, MySQL, Git, GitHub e VS Code">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Microsoft Excel" title="Microsoft Excel">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" height="48" alt="Microsoft Outlook" title="Microsoft Outlook">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/json/FFFFFF" height="48" alt="JSON" title="JSON">
+  &nbsp;
+  <img src="assets/tech-excel.svg" width="48" height="48" alt="Microsoft Excel" title="Microsoft Excel">
+  &nbsp;
+  <img src="assets/tech-outlook.svg" width="48" height="48" alt="Microsoft Outlook" title="Microsoft Outlook">
+  &nbsp;
+  <img src="assets/tech-json.svg" width="48" height="48" alt="JSON" title="JSON">
 </div>
 
 ## Conhecimentos em desenvolvimento
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,aws,azure" alt="Java, AWS e Microsoft Azure">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" title="Power BI">
+  &nbsp;
+  <img src="assets/tech-powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI">
 </div>
 
 ## Formação e certificações
