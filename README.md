@@ -85,20 +85,20 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,git,github,vscode" alt="Python, SQLite, MySQL, Git, GitHub e VS Code">
-  <br><br>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Microsoft Outlook">
-  <img src="https://img.shields.io/badge/OpenPyXL-1F6E43?style=for-the-badge&logo=python&logoColor=white" alt="OpenPyXL">
-  <img src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-  <img src="https://img.shields.io/badge/Automação_de_Processos-0F766E?style=for-the-badge" alt="Automação de processos">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Microsoft Excel" title="Microsoft Excel">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" height="48" alt="Microsoft Outlook" title="Microsoft Outlook">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/json/FFFFFF" height="48" alt="JSON" title="JSON">
 </div>
 
 ## Conhecimentos em desenvolvimento
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,aws,azure" alt="Java, AWS e Microsoft Azure">
-  <br><br>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" title="Power BI">
 </div>
 
 ## Formação e certificações
