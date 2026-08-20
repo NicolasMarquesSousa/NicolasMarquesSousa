@@ -101,22 +101,19 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
   <img src="assets/tech-powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI">
 </div>
 
+<br>
+
 ## Formação e certificações
 
-- **Python — Santander Open Academy** — fundamentos da linguagem aplicados aos projetos do portfólio.
-- **Big Data & Analytics — FIAP** — 60 horas.
-- **Inteligência Artificial e Computacional — FIAP** — 80 horas.
-- **Introdução ao Microsoft Azure Data (DP-900)** — 8 horas.
-- **Introdução à Infraestrutura de Nuvem (AZ-900)** — 8 horas.
+- **Python** · Santander Open Academy — fundamentos aplicados aos projetos do portfólio.
+- **Big Data & Analytics** · FIAP — 60 horas.
+- **Inteligência Artificial e Computacional** · FIAP — 80 horas.
+- **Microsoft Azure Data Fundamentals (DP-900)** · Microsoft — 8 horas.
+- **Microsoft Azure Fundamentals (AZ-900)** · Microsoft — 8 horas.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Segurança_%26_Governança-0F766E?style=for-the-badge" alt="Segurança e governança">
-  <img src="https://img.shields.io/badge/Dados_%26_IA-6B21A8?style=for-the-badge" alt="Dados e inteligência artificial">
-  <img src="https://img.shields.io/badge/Cloud_%26_Infraestrutura-0A66C2?style=for-the-badge" alt="Cloud e infraestrutura">
-  <img src="https://img.shields.io/badge/Gestão_%26_Processos-374151?style=for-the-badge" alt="Gestão e processos">
-  <br><br>
-  <a href="certificados/README.md"><img src="https://img.shields.io/badge/Ver_21_certificados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver portfólio completo de certificações"></a>
-</div>
+<p align="center">
+  <a href="certificados/README.md"><img src="https://img.shields.io/badge/Explorar_21_certificados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar portfólio completo de certificações"></a>
+</p>
 
 ---
 
