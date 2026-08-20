@@ -33,6 +33,22 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>📨 Automação de Follow-up 365</h3>
+      <p>Gera rascunhos personalizados no Outlook a partir de pedidos pendentes, com tabela HTML e anexos separados por fornecedor.</p>
+      <p><b>Demonstra:</b> automação de processos, segmentação de dados, HTML, JSON e integração com Outlook.</p>
+      <p><code>Python</code> <code>Outlook</code> <code>JSON</code> <code>Automação</code></p>
+      <a href="https://github.com/NicolasMarquesSousa/fup-365-automation"><img src="https://img.shields.io/badge/Ver_projeto-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Automação de Follow-up 365"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Automação de FUP por Fornecedor</h3>
+      <p>Segmenta pendências por fornecedor e unidade, gera relatórios individuais em Excel e prepara mensagens no Outlook.</p>
+      <p><b>Demonstra:</b> tratamento de planilhas, regras de negócio, automação de e-mails e proteção de dados.</p>
+      <p><code>Python</code> <code>Excel</code> <code>OpenPyXL</code> <code>Outlook</code></p>
+      <a href="https://github.com/NicolasMarquesSousa/supplier-fup-automation"><img src="https://img.shields.io/badge/Ver_projeto-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Ver Automação de FUP por Fornecedor"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🔐 Analisador de Logs de Segurança</h3>
       <p>Analisa logs de autenticação, agrupa falhas por IP e detecta possíveis ataques de força bruta dentro de uma janela de tempo.</p>
       <p><b>Demonstra:</b> parsing de arquivos, datas e intervalos, dicionários, validação de entradas e testes automatizados.</p>
