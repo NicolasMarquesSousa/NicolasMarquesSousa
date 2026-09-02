@@ -30,6 +30,8 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 
 ## Projetos em destaque
 
+> **Evolução das automações:** o `fup-365-automation` automatiza a comunicação e cria rascunhos seguros no Outlook; o `supplier-fup-automation` evolui o fluxo ao acrescentar leitura da base, segmentação por fornecedor e unidade, geração de relatórios em Excel e regras explícitas de envio.
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -96,7 +98,7 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 ## Conhecimentos em desenvolvimento
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,aws,azure" alt="Java, AWS e Microsoft Azure">
+  <img src="https://skillicons.dev/icons?i=linux,java,aws,azure" alt="Linux, Java, AWS e Microsoft Azure">
   &nbsp;
   <img src="assets/tech-powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI">
 </div>
