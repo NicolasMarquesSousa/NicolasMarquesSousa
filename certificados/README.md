@@ -45,3 +45,6 @@ Este diretório reúne certificados públicos de cursos e formações complement
 - [Visão Geral do ITIL 4](gestao-e-governanca/visao-geral-itil-4.pdf)
 - [COBIT, ITIL, Scrum e PMBOK](gestao-e-governanca/cobit-itil-scrum-pmbok.pdf)
 - [Módulos SAP MM e SD](gestao-e-governanca/sap-mm-e-sd.pdf)
+## Certificados adicionais no LinkedIn
+- [Fundamentos de Linguagem Python para Análise de Dados e Data Science — Data Science Academy](https://www.linkedin.com/in/nicolas-marques-sousa/details/certifications/)
+- [Técnicas de Estudo e Saúde Mental](https://www.linkedin.com/in/nicolas-marques-sousa/details/certifications/)
