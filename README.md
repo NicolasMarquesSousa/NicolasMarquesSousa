@@ -1,29 +1,30 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Nicolas Marques — Gestão de Terceiros, Segurança da Informação, Python e SQL">
+<img src="assets/profile-banner.svg" width="100%" alt="Nicolas Marques — Segurança da Informação, Redes, Python, SQL e Automação">
 
 <br>
 
-<a href="https://www.linkedin.com/in/nicolas-marques-695722235/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn"></a>
+<a href="https://www.linkedin.com/in/nicolas-marques-sousa/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn"></a>
 <a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/Projetos-Ver_portfólio-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos em destaque"></a>
-<a href="certificados/README.md"><img src="https://img.shields.io/badge/Certificações-21_certificados-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="Ver certificações"></a>
+<a href="certificados/README.md"><img src="https://img.shields.io/badge/Certificações-23_certificados-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="Ver certificações"></a>
 
 </div>
 
 ## Sobre mim
 
-Atuo na área de **Gestão de Terceiros** e curso **Segurança da Informação**, reunindo experiência com processos, fornecedores e riscos a estudos práticos em tecnologia.
+Sou estudante de **Segurança da Informação**, formado como **Técnico em Redes de Computadores** e atuo em **Gestão de Terceiros**, reunindo experiência com processos, fornecedores e riscos a projetos práticos de segurança, redes, dados e automação.
 
 Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tarefas, organizar informações e investigar eventos de segurança. Meu portfólio apresenta aplicações documentadas, dados fictícios, tratamento de erros e testes automatizados.
 
-> **Foco de desenvolvimento:** conectar processos, dados, riscos e tecnologia em soluções claras, testáveis e úteis.
+> **Objetivo profissional:** conquistar uma oportunidade de entrada em Cibersegurança, com foco em SOC, Segurança de Redes, IAM ou GRC, aplicando minha base técnica em redes e minha experiência com riscos e terceiros.
 
 ## Visão rápida
 
 | Foco | Evidências no portfólio |
 |---|---|
-| 🤝 Processos e riscos | Experiência profissional em Gestão de Terceiros e acompanhamento de fornecedores |
 | 🔐 Segurança e análise de eventos | Detecção de tentativas de força bruta por IP e intervalo de tempo |
+| 🌐 Redes de computadores | Formação técnica e cursos CCNAv7 de redes, switching, routing e wireless |
+| 🤝 Processos e riscos | Experiência profissional em Gestão de Terceiros e acompanhamento de fornecedores |
 | 🐍 Automação com Python | Segmentação por fornecedor, relatórios em Excel, JSON e rascunhos no Outlook |
 | 🧪 Qualidade de software | Projetos validados com testes automatizados e casos de erro |
 | 🗄️ Dados e SQL | Modelagem relacional de usuários, eventos e incidentes de segurança |
@@ -33,22 +34,6 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 > **Evolução das automações:** o `fup-365-automation` automatiza a comunicação e cria rascunhos seguros no Outlook; o `supplier-fup-automation` evolui o fluxo ao acrescentar leitura da base, segmentação por fornecedor e unidade, geração de relatórios em Excel e regras explícitas de envio.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📨 Automação de Follow-up 365</h3>
-      <p>Gera rascunhos personalizados no Outlook a partir de pedidos pendentes, com tabela HTML e anexos separados por fornecedor.</p>
-      <p><b>Demonstra:</b> automação de processos, segmentação de dados, HTML, JSON e integração com Outlook.</p>
-      <p><code>Python</code> <code>Outlook</code> <code>JSON</code> <code>Automação</code></p>
-      <a href="https://github.com/NicolasMarquesSousa/fup-365-automation"><img src="https://img.shields.io/badge/Ver_projeto-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Automação de Follow-up 365"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Automação de FUP por Fornecedor</h3>
-      <p>Segmenta pendências por fornecedor e unidade, gera relatórios individuais em Excel e prepara mensagens no Outlook.</p>
-      <p><b>Demonstra:</b> tratamento de planilhas, regras de negócio, automação de e-mails e proteção de dados.</p>
-      <p><code>Python</code> <code>Excel</code> <code>OpenPyXL</code> <code>Outlook</code></p>
-      <a href="https://github.com/NicolasMarquesSousa/supplier-fup-automation"><img src="https://img.shields.io/badge/Ver_projeto-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Ver Automação de FUP por Fornecedor"></a>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔐 Analisador de Logs de Segurança</h3>
@@ -63,6 +48,22 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
       <p><b>Demonstra:</b> modelagem relacional, chaves, relacionamento muitos-para-muitos, JOIN, GROUP BY, HAVING e CASE.</p>
       <p><code>SQL</code> <code>SQLite</code> <code>Cybersecurity</code> <code>Análise de dados</code></p>
       <a href="https://github.com/NicolasMarquesSousa/banco-incidentes-seguranca"><img src="https://img.shields.io/badge/Ver_projeto-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Ver Banco de Incidentes de Segurança"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📨 Automação de Follow-up 365</h3>
+      <p>Gera rascunhos personalizados no Outlook a partir de pedidos pendentes, com tabela HTML e anexos separados por fornecedor.</p>
+      <p><b>Demonstra:</b> automação de processos, segmentação de dados, HTML, JSON e integração com Outlook.</p>
+      <p><code>Python</code> <code>Outlook</code> <code>JSON</code> <code>Automação</code></p>
+      <a href="https://github.com/NicolasMarquesSousa/fup-365-automation"><img src="https://img.shields.io/badge/Ver_projeto-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Automação de Follow-up 365"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Automação de FUP por Fornecedor</h3>
+      <p>Segmenta pendências por fornecedor e unidade, gera relatórios individuais em Excel e prepara mensagens no Outlook.</p>
+      <p><b>Demonstra:</b> tratamento de planilhas, regras de negócio, automação de e-mails e proteção de dados.</p>
+      <p><code>Python</code> <code>Excel</code> <code>OpenPyXL</code> <code>Outlook</code></p>
+      <a href="https://github.com/NicolasMarquesSousa/supplier-fup-automation"><img src="https://img.shields.io/badge/Ver_projeto-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Ver Automação de FUP por Fornecedor"></a>
     </td>
   </tr>
   <tr>
@@ -107,6 +108,10 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 
 ## Formação e certificações
 
+- **Tecnologia em Segurança da Informação** · UNIP — cursando.
+- **Técnico em Redes de Computadores** · ITB/FIEB — concluído.
+- **CCNAv7: Introduction to Networks** · Cisco Networking Academy.
+- **CCNAv7: Switching, Routing, and Wireless Essentials** · Cisco Networking Academy.
 - **Python** · Santander Open Academy — fundamentos aplicados aos projetos do portfólio.
 - **Big Data & Analytics** · FIAP — 60 horas.
 - **Inteligência Artificial e Computacional** · FIAP — 80 horas.
@@ -114,14 +119,14 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 - **Introdução à Infraestrutura de Nuvem (AZ-900)** — 8 horas.
 
 <p align="center">
-  <a href="certificados/README.md"><img src="https://img.shields.io/badge/Explorar_21_certificados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar portfólio completo de certificações"></a>
+  <a href="certificados/README.md"><img src="https://img.shields.io/badge/Explorar_23_certificados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar portfólio completo de certificações"></a>
 </p>
 
 ---
 
 <div align="center">
-  <b>Construindo e documentando projetos que conectam processos, dados, automação e Segurança da Informação.</b>
+  <b>Construindo evidências práticas para atuar em Cibersegurança, conectando redes, riscos, dados e automação.</b>
   <br><br>
-  <a href="https://www.linkedin.com/in/nicolas-marques-695722235/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/nicolas-marques-sousa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:nicolasmsousa50@gmail.com"><img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato por e-mail"></a>
 </div>
