@@ -48,3 +48,9 @@ Este diretório reúne certificados públicos de cursos e formações complement
 ## Certificados adicionais no LinkedIn
 - [Fundamentos de Linguagem Python para Análise de Dados e Data Science — Data Science Academy](https://www.linkedin.com/in/nicolas-marques-sousa/details/certifications/)
 - [Técnicas de Estudo e Saúde Mental](https://www.linkedin.com/in/nicolas-marques-sousa/details/certifications/)
+
+
+## Cisco Networking Academy — Redes
+
+- [CCNAv7: Introduction to Networks](seguranca-e-infra/ccnav7-introduction-to-networks.pdf) — emitido em fevereiro de 2023.
+- [CCNAv7: Switching, Routing, and Wireless Essentials](seguranca-e-infra/ccnav7-switching-routing-wireless-essentials.pdf) — emitido em dezembro de 2023.
