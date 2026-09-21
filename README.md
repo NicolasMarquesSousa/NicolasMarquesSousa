@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/nicolas-marques-sousa/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn"></a>
 <a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/Projetos-Ver_portfólio-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos em destaque"></a>
-<a href="certificados/README.md"><img src="https://img.shields.io/badge/Certificações-23_certificados-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="Ver certificações"></a>
+<a href="certificados/README.md"><img src="https://img.shields.io/badge/Certificações-24_certificados-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="Ver certificações"></a>
 
 </div>
 
@@ -110,6 +110,7 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 
 - **Tecnologia em Segurança da Informação** · UNIP — cursando.
 - **Técnico em Redes de Computadores** · ITB/FIEB — concluído.
+- **Cybersecurity** · FIAP — 120 horas.
 - **CCNAv7: Introduction to Networks** · Cisco Networking Academy.
 - **CCNAv7: Switching, Routing, and Wireless Essentials** · Cisco Networking Academy.
 - **Python** · Santander Open Academy — fundamentos aplicados aos projetos do portfólio.
@@ -119,7 +120,7 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 - **Introdução à Infraestrutura de Nuvem (AZ-900)** — 8 horas.
 
 <p align="center">
-  <a href="certificados/README.md"><img src="https://img.shields.io/badge/Explorar_23_certificados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar portfólio completo de certificações"></a>
+  <a href="certificados/README.md"><img src="https://img.shields.io/badge/Explorar_24_certificados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar portfólio completo de certificações"></a>
 </p>
 
 ---
