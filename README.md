@@ -67,19 +67,12 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>✅ Gerenciador de Tarefas em Python</h3>
       <p>Aplicação de terminal para criar, listar, concluir e remover tarefas, mantendo os dados em JSON.</p>
       <p><b>Demonstra:</b> orientação a objetos, persistência, tratamento de erros e quatro testes automatizados.</p>
       <p><code>Python</code> <code>JSON</code> <code>POO</code> <code>Unittest</code></p>
       <a href="https://github.com/NicolasMarquesSousa/gerenciador-tarefas-python"><img src="https://img.shields.io/badge/Ver_projeto-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Gerenciador de Tarefas em Python"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Laboratório de Estudos</h3>
-      <p>Exercícios e anotações que documentam minha evolução prática em Python e SQL.</p>
-      <p><b>Demonstra:</b> fundamentos, estruturas de dados, orientação a objetos, arquivos e consultas SQL.</p>
-      <p><code>Python</code> <code>SQL</code> <code>Aprendizado contínuo</code></p>
-      <a href="https://github.com/NicolasMarquesSousa/estudos-python-sql"><img src="https://img.shields.io/badge/Ver_estudos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver laboratório de estudos"></a>
     </td>
   </tr>
 </table>
