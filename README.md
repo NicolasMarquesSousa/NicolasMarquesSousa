@@ -77,6 +77,14 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
   </tr>
 </table>
 
+## Evolução e estudos
+
+O repositório **[estudos-python-sql](https://github.com/NicolasMarquesSousa/estudos-python-sql)** registra minha evolução prática, dos fundamentos aos projetos aplicados apresentados acima. Ele reúne exercícios, anotações e experimentos em Python e SQL e funciona como histórico transparente de aprendizado contínuo.
+
+<p align="center">
+  <a href="https://github.com/NicolasMarquesSousa/estudos-python-sql"><img src="https://img.shields.io/badge/Ver_trilha_de_estudos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver trilha de estudos em Python e SQL"></a>
+</p>
+
 ## Tecnologias aplicadas nos projetos
 
 <div align="center">
