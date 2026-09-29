@@ -85,6 +85,20 @@ O repositório **[estudos-python-sql](https://github.com/NicolasMarquesSousa/est
   <a href="https://github.com/NicolasMarquesSousa/estudos-python-sql"><img src="https://img.shields.io/badge/Ver_trilha_de_estudos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver trilha de estudos em Python e SQL"></a>
 </p>
 
+## Portfólio completo
+
+| Área | Projeto | Evidência principal |
+|---|---|---|
+| 🛡️ SOC | [soc-incident-triage](https://github.com/NicolasMarquesSousa/soc-incident-triage) | Triagem, priorização de risco, detecções explicáveis e histórico auditável |
+| 🔐 Segurança | [analisador-logs-seguranca](https://github.com/NicolasMarquesSousa/analisador-logs-seguranca) | Detecção temporal de possíveis ataques de força bruta |
+| 🗄️ Segurança e SQL | [banco-incidentes-seguranca](https://github.com/NicolasMarquesSousa/banco-incidentes-seguranca) | Modelagem e investigação de incidentes em SQLite |
+| 📊 Automação | [supplier-fup-automation](https://github.com/NicolasMarquesSousa/supplier-fup-automation) | Relatórios por fornecedor e preparação segura de mensagens no Outlook |
+| 📨 Automação | [fup-365-automation](https://github.com/NicolasMarquesSousa/fup-365-automation) | Rascunhos de follow-up com dados segmentados e anexos |
+| 🤖 RPA | [automacao-cadastro-produtos](https://github.com/NicolasMarquesSousa/automacao-cadastro-produtos) | Cadastro web a partir de CSV com PyAutoGUI e pandas |
+| ✅ Python | [gerenciador-tarefas-python](https://github.com/NicolasMarquesSousa/gerenciador-tarefas-python) | POO, persistência em JSON, tratamento de erros e testes |
+| 📚 Estudos | [estudos-python-sql](https://github.com/NicolasMarquesSousa/estudos-python-sql) | Evolução prática em Python e SQL |
+| ☕ Fundamentos | [JAVA](https://github.com/NicolasMarquesSousa/JAVA) | Estudos e exercícios em Java |
+| 🧮 Fundamentos | [SQL](https://github.com/NicolasMarquesSousa/SQL) | Estudos e exercícios em bancos de dados e SQL |
 ## Tecnologias aplicadas nos projetos
 
 <div align="center">
