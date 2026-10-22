@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Segurança da Informação**, formado como **Técnico em Redes de Computadores** e atuo em **Gestão de Terceiros**, reunindo experiência com processos, fornecedores e riscos a projetos práticos de segurança, redes, dados e automação.
+Sou estudante de **Segurança da Informação**, formado como **Técnico em Redes de Computadores** e atuo como **Assistente de Departamento Pessoal na Level Group**, após experiência em Gestão de Terceiros. Reúno prática com processos, controles, fornecedores e riscos a projetos de segurança, redes, dados e automação.
 
 Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tarefas, organizar informações e investigar eventos de segurança. Meu portfólio apresenta aplicações documentadas, dados fictícios, tratamento de erros e testes automatizados.
 
@@ -24,7 +24,7 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 |---|---|
 | 🔐 Segurança e análise de eventos | Detecção de tentativas de força bruta por IP e intervalo de tempo |
 | 🌐 Redes de computadores | Formação técnica e cursos CCNAv7 de redes, switching, routing e wireless |
-| 🤝 Processos e riscos | Experiência profissional em Gestão de Terceiros e acompanhamento de fornecedores |
+| 🤝 Processos e riscos | Experiência em Gestão de Terceiros e promoção interna a Assistente de Departamento Pessoal em outubro de 2026 |
 | 🐍 Automação com Python | Segmentação por fornecedor, relatórios em Excel, JSON e rascunhos no Outlook |
 | 🧪 Qualidade de software | Projetos validados com testes automatizados e casos de erro |
 | 🗄️ Dados e SQL | Modelagem relacional de usuários, eventos e incidentes de segurança |
