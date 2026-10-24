@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Segurança da Informação**, formado como **Técnico em Redes de Computadores** e atuo como **Assistente de Departamento Pessoal na Level Group**, após experiência em Gestão de Terceiros. Reúno prática com processos, controles, fornecedores e riscos a projetos de segurança, redes, dados e automação.
+Sou estudante de **Segurança da Informação**, formado como **Técnico em Redes de Computadores** e atuo como **Assistente de Departamento Pessoal na Level Group, com atuação em Gestão de Terceiros**. Fui promovido em **outubro de 2026**, por reconhecimento de desempenho, mantendo as atividades com fornecedores, contratos, controles e prazos. Reúno prática com processos, controles, fornecedores e riscos a projetos de segurança, redes, dados e automação.
 
 Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tarefas, organizar informações e investigar eventos de segurança. Meu portfólio apresenta aplicações documentadas, dados fictícios, tratamento de erros e testes automatizados.
 
