@@ -16,7 +16,7 @@ Sou estudante de **Segurança da Informação**, formado como **Técnico em Rede
 
 Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tarefas, organizar informações e investigar eventos de segurança. Meu portfólio apresenta aplicações documentadas, dados fictícios, tratamento de erros e testes automatizados.
 
-> **Objetivo profissional:** conquistar uma oportunidade de entrada em Cibersegurança, com foco em SOC, Segurança de Redes, IAM ou GRC, aplicando minha base técnica em redes e minha experiência com riscos e terceiros.
+> **Objetivo profissional:** conquistar uma oportunidade de entrada em Cibersegurança, com foco principal em **SOC e Segurança de Redes**, aplicando minha base técnica em redes e minha experiência com riscos e terceiros.
 
 ## Visão rápida
 
@@ -30,6 +30,14 @@ Desenvolvo projetos com **Python, SQL e análise de dados** para automatizar tar
 | 🗄️ Dados e SQL | Modelagem relacional de usuários, eventos e incidentes de segurança |
 
 ## Projetos em destaque
+
+### 🛡️ Projeto principal: Triagem de Incidentes SOC
+
+Aplicação educacional em Python e SQLite para validar logs fictícios, detectar comportamentos suspeitos, priorizar alertas e registrar o histórico da investigação.
+
+**Comece por aqui:** [Ver projeto](https://github.com/NicolasMarquesSousa/soc-incident-triage) · [Investigação demonstrativa reproduzível](https://github.com/NicolasMarquesSousa/soc-incident-triage/blob/main/docs/investigacao-demonstrativa.md) · [Status dos testes](https://github.com/NicolasMarquesSousa/soc-incident-triage/actions/workflows/tests.yml)
+
+A demonstração separa evidências, hipóteses e decisão de triagem; um alerta não é apresentado como confirmação de ataque.
 
 > **Evolução das automações:** o `fup-365-automation` automatiza a comunicação e cria rascunhos seguros no Outlook; o `supplier-fup-automation` evolui o fluxo ao acrescentar leitura da base, segmentação por fornecedor e unidade, geração de relatórios em Excel e regras explícitas de envio.
 
@@ -97,8 +105,6 @@ O repositório **[estudos-python-sql](https://github.com/NicolasMarquesSousa/est
 | 🤖 RPA | [automacao-cadastro-produtos](https://github.com/NicolasMarquesSousa/automacao-cadastro-produtos) | Cadastro web a partir de CSV com PyAutoGUI e pandas |
 | ✅ Python | [gerenciador-tarefas-python](https://github.com/NicolasMarquesSousa/gerenciador-tarefas-python) | POO, persistência em JSON, tratamento de erros e testes |
 | 📚 Estudos | [estudos-python-sql](https://github.com/NicolasMarquesSousa/estudos-python-sql) | Evolução prática em Python e SQL |
-| ☕ Fundamentos | [JAVA](https://github.com/NicolasMarquesSousa/JAVA) | Estudos e exercícios em Java |
-| 🧮 Fundamentos | [SQL](https://github.com/NicolasMarquesSousa/SQL) | Estudos e exercícios em bancos de dados e SQL |
 ## Tecnologias aplicadas nos projetos
 
 <div align="center">
